@@ -1,3 +1,3 @@
 # preparation01
 Contains a reflection on Alfie Kohn's article, *The Case Against Grades*
-[Running]("https://giphy.com/embed/3oKIPwoeGErMmaI43S" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/culture--run-3oKIPwoeGErMmaI43S">via GIPHY</a></p>)
+[Running](https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif?cid=ecf05e47yvab594311q1rl5z449u1n194wq2ebw8yu47yge6&rid=giphy.gif&ct=g)
