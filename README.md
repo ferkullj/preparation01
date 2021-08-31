@@ -1,2 +1,2 @@
 # preparation01
-Prep 1 for STA 518
+Contains a reflection on Alfie Kohn's Article, *The Case Against Grades*
